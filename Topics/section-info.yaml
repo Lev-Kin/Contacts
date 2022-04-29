@@ -1,0 +1,22 @@
+content:
+- Builder
+- Regexes in programs
+- Patterns and Matcher
+- Match results
+- Constructor
+- Reflection basics
+- Runtime type checking
+- Comparable
+- LocalTime
+- LocalDate
+- LocalDateTime
+- Encapsulating object creation
+- Factory method
+- Template method
+- Command
+- Iterating over arrays
+- Abstract factory
+- Command-line arguments
+- Output streams
+- Serialization basics
+- Custom serialization
